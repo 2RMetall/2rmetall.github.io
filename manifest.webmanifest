@@ -1,0 +1,17 @@
+{
+  "name": "2R Metall",
+  "short_name": "2R Metall",
+  "description": "Zeiterfassung, Aufgaben, Pläne & Fotos – 2R Metall GmbH",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f2240",
+  "theme_color": "#0f2240",
+  "lang": "de-CH",
+  "icons": [
+    { "src": "/icons/app-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/app-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/app-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
