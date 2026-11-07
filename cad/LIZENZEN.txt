@@ -1,0 +1,3 @@
+cad-simple-viewer, data-model, three-renderer (MIT, https://github.com/mlightcad/cad-viewer)
+libredwg-converter / libredwg-web (GPL-3.0, https://github.com/mlightcad/libredwg-web) – basiert auf GNU LibreDWG (GPL-3.0, https://www.gnu.org/software/libredwg/).
+Der DWG-Parser läuft als eigenständiger, unveränderter Web-Worker; Quellcode unter den obigen Links.
